@@ -13,10 +13,16 @@ height:100px;
 nav ul li {
 	display: inline; 
 	font-size: 25pt;
-	
+	left: 10px; 
+	top: 10px; 
 	
 
 		
+}
+#inicio{
+	width:80px;
+	 height:70px;
+
 }
 
 #logo {
