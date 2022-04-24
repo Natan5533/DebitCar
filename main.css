@@ -3,7 +3,7 @@ nav{
 width:95%;
 height:100px;
 margin: 0 auto;
-	background-color:rgba(100,50,255,0.9);  
+	background-color:rgba(29,111,149,0.9);  
 	text-align: center;
 	border-radius: 20px;
 }
@@ -41,5 +41,5 @@ nav ul li {
 }	
 body
 {
-	background-color:black;
+	background-image:url(..\DebitCar\imgs\back.jpg);
 }
