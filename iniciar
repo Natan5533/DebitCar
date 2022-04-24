@@ -1,1 +1,16 @@
 
+git clone https://github.com/Natan5533/DebitCar.git
+
+//modifique o arquivo
+
+git status
+// Para ver se suas mudanças constam no diretorio local
+
+git add . or nome do arquivo
+// Para adicionar as mudanças no diretorio
+
+git commit -m 'descrição da mudança' 
+//para commitar a mudança
+
+git push 
+//para mandar as mudanças para o diretorio online
