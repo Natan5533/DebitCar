@@ -11,29 +11,35 @@ nav ul li {
 	display: inline; 
 	font-size: 25pt;	
 }
-
 #logo {
 	position: absolute; 
 	left: 80px; 
 	top: -25px; 
-	border-radius: 50px;
-		
+	border-radius: 50px;	
 	}
 #Pconteudo{
-	
 	width:1000px;
-	height:500px;
+	height:1000px;
 	margin: 0 auto;
 	top:100px;
-	background-color:#666;
+	background-color:rgba(202,202,202,0.9);
 	border-radius: 10px;
 	position: relative;
+	text-align: left;
 	}
+	h1{
+		text-align: center;
 
-
-
+	}
+#iniProblema{
+	position: absolute; 
+	width:780px;
+	height:380px;
+	top: 280px;
+	left:120px; 
+	border-radius: 50px;
+}	
 body
 {
 	background-color:black;
-    color: black;
 }
