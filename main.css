@@ -2,7 +2,9 @@
 body
 {
 	/**problemas no back img*/
-	background-image:url(imgs\chat.jpg);
+	background-image:url(imgs/back.jpg);
+	background-size: 100% 1500px;
+	background-repeat: no-repeat;
 }
 
 nav{
@@ -26,7 +28,7 @@ nav ul li {
 	}
 #Pconteudo{
 	width:1000px;
-	height:1000px;
+	height:500px;
 	margin: 0 auto;
 	top:100px;
 	background-color:rgba(202,202,202,0.9);
@@ -43,7 +45,14 @@ nav ul li {
 	position: absolute; 
 	width:780px;
 	height:380px;
-	top: 280px;
+	top: 500px;
 	left:120px; 
 	border-radius: 50px;
 }	
+footer{
+	position: relative;
+	width:50px;
+	height:50px;
+	top:900px;
+	background-color:rgba(29,111,149,0.9) ;
+}
