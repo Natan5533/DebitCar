@@ -45,14 +45,20 @@ nav ul li {
 	position: absolute; 
 	width:780px;
 	height:380px;
-	top: 500px;
+	top: 250px;
 	left:120px; 
-	border-radius: 50px;
+	
 }	
 footer{
 	position: relative;
-	width:50px;
-	height:50px;
-	top:900px;
-	background-color:rgba(29,111,149,0.9) ;
+	text-align: center;
+	font-family:'Gill Sans MT';
+	font-size:larger;
+	text-decoration-style:solid;
+	width:250px;
+	height:23px;
+	top: 400px;
+	border-radius: 10px;
+	background-color:rgba(0, 67, 99, 0.9) ;
+	color:rgba(202,202,202,0.9);
 }
