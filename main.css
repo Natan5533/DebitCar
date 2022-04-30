@@ -3,8 +3,9 @@ body
 {
 	/**problemas no back img*/
 	background-image:url(imgs/back.jpg);
-	background-size: 100% 1500px;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
+	margin: 0 auto;
 }
 
 nav{
@@ -27,7 +28,7 @@ nav ul li {
 	border-radius: 50px;	
 	}
 #Pconteudo{
-	width:1000px;
+	width:900px;
 	height:500px;
 	margin: 0 auto;
 	top:100px;
@@ -45,8 +46,9 @@ nav ul li {
 	position: absolute; 
 	width:780px;
 	height:380px;
+	margin: 0 auto;
 	top: 250px;
-	left:120px; 
+
 	
 }	
 footer{
