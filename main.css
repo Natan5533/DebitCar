@@ -1,12 +1,19 @@
 
-nav{
-width:95%;
-height:100px;
-margin: 0 auto;
-	background-color:rgba(29,111,149,0.9);  
-	text-align: center;
-	border-radius: 20px;
+body
+{
+	/**problemas no back img*/
+	background-image:url(imgs\chat.jpg);
 }
+
+nav{
+	width:95%;
+	height:100px;
+	margin: 0 auto;
+		background-color:rgba(29,111,149,0.9);  
+		text-align: center;
+		border-radius: 20px;
+	}
+
 nav ul li {
 	display: inline; 
 	font-size: 25pt;	
@@ -25,11 +32,12 @@ nav ul li {
 	background-color:rgba(202,202,202,0.9);
 	border-radius: 10px;
 	position: relative;
-	text-align: left;
+	text-align: center;
+
 	}
 	h1{
 		text-align: center;
-
+	color: rgba(29,111,149,0.9);
 	}
 #iniProblema{
 	position: absolute; 
@@ -39,7 +47,3 @@ nav ul li {
 	left:120px; 
 	border-radius: 50px;
 }	
-body
-{
-	background-image:url(..\DebitCar\imgs\back.jpg);
-}
