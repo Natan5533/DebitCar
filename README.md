@@ -1,3 +1,3 @@
 # DebitCar
-Projeto em HTML voltado ao aplicativo DebitCar
-[<img src="imgs\deb.jpg" />]
+Projeto Web voltado ao aplicativo DebitCar
+<img src="imgs\deb.jpg" />
