@@ -4,10 +4,9 @@ body
 
 	background-image:url(imgs/fundoteste.jpg);
 	background-size: 100% 1600px;
-    background-repeat: no-repeat;
-	background-color:rgba(29,111,149,0.9) ;
-	margin: 0 auto;
+background-repeat: no-repeat;
 
+	margin: 0 auto;
 }
 
 nav{
@@ -29,7 +28,7 @@ nav ul li {
 	height:95px;
 }
 #gambi{
-	width:100px;
+	width:50px;
 	height:35px;	
 }
 #logo {
@@ -45,8 +44,8 @@ nav ul li {
 	height:400px;
 	margin: 0 auto;
 	top:100px;
-	background-color:rgba(0, 20, 34,0.9);
-	color: rgba(230, 228, 228, 0.849);
+	background-color:rgb(0, 20, 34);
+	color: rgba(236, 236, 236, 0.575);
 	position: relative;
 	text-align: center;
 	font-family:'Gill Sans MT';
@@ -56,13 +55,13 @@ nav ul li {
 	height:50px;
 	position: relative;
 	top:20px;
-	left:90px;
+	left:100px;
 	border-style:solid;
 	border-radius:50px;
 	border-color:rgba(233, 198, 3, 0.9);
 }
 	#Pconteudopt2{
-		width:800px;
+		width:850px;
 		height:450px;
 		margin: 0 auto;
 		position: relative;

@@ -5,6 +5,8 @@ body
 	background-image:url(imgs/fundoteste.jpg);
 	background-size: 100% 1500px;
 	background-repeat: no-repeat;
+    background-color:rgba(29,111,149,0.9) ;
+    margin: 0 auto;
 }
 nav{
 	width:80%;
@@ -18,10 +20,14 @@ nav{
         display: inline; 
         font-size: 25pt;	
     }
-#navimgs{
-	width:97px;
-	height:97px;
-}  
+    #gambi{
+        width:50px;
+        height:35px;	
+    }
+    #navimgs{ 
+        width:95px;
+        height:95px;
+    } 
     #logo {
         position: absolute; 
         width:150px;
@@ -36,7 +42,7 @@ nav{
     height:350px;
     position: relative;
     top:40%;
-    background-color:rgba(0, 67, 99, 0.9) ;
+    background-color:rgba(0, 20, 34,0.9);
 }
 h1{
     font-family:'Gill Sans MT';
@@ -69,4 +75,8 @@ h1{
             top:100%;
             background-color:rgba(0, 67, 99, 0.9) ;
             color:rgba(202,202,202,0.9);
+        }
+        #gambi{
+            width:100px;
+            height:35px;	
         }
